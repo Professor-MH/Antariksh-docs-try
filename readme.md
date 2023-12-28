@@ -11,4 +11,6 @@ As we embark on this celestial journey together, let us remember that Antariksh 
 
 Guided by our motto, "Exploring The Universe," let's venture into the unknown. Together, let's explore the wonders of the universe, support one another in our endeavours, and nurture a spirit of camaraderie that transcends the boundaries of space and time. As we reach for the stars, may Antariksh Club be a place where friendships flourish, knowledge blossoms, and the beauty of the cosmos inspires us all.
 
+![image](https://github.com/Auriel3003/Antariksh-docs/assets/116882665/2da8fd4c-10fe-4cd3-9277-6a00d6a8e9fe)
+
 Welcome to Antariksh Club, where the journey is as extraordinary as the destinations we strive to uncover.
