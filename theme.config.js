@@ -63,5 +63,5 @@ export default {
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Samael3003.</>,
-  unstable_faviconGlyph: '👋',
+  unstable_faviconGlyph: '🌠',
 }
