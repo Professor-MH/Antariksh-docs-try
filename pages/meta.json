@@ -1,8 +1,6 @@
 {
   "index": "Introduction",
   "about": "About",
-  "posts": "Posts",
-  "virtual-cloud-network": "Virtual-Cloud-Network",
-  "tech-daily": "TECH-Daily",
-  "case-study": "Case-Study"
+  "research-articles": "Research-Articles",
+  "virtual-cloud-network": "Virtual-Cloud-Network"
 }
