@@ -4,9 +4,9 @@ export default {
   titleSuffix: ' – Samael3003',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">SAMAEL</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Antariksh</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Fallen Programmer
+        Astronomy Club
       </span>
     </>
   ),
